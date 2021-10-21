@@ -1,3 +1,3 @@
 # Resolução Exercicio Uri 3053
 
- - Abra o arquivo Rascunho.png para um rascunho gráfico.
+![Rascunho](https://user-images.githubusercontent.com/90936908/138325097-500b373b-64ff-44df-9a73-d88449e788ba.png)
